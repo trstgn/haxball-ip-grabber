@@ -1,2 +1,2 @@
 # haxball-ip-grabber
- a source code for headlesshost
+ IP Grabber optimized to Omegle interface with minimal changes is implemented to HaxBall's Headlesshost
